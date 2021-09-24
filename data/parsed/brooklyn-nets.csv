@@ -1,0 +1,612 @@
+name,position,department,timestamp,date
+Joe Tsai,Governor,GOVERNANCE,20210829041659,2021-08-29
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210829041659,2021-08-29
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210829041659,2021-08-29
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210829041659,2021-08-29
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210829041659,2021-08-29
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210829041659,2021-08-29
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210829041659,2021-08-29
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210829041659,2021-08-29
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210829041659,2021-08-29
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210829041659,2021-08-29
+Mandy Gutmann,"Executive Vice President, Communications and Community Relations",MANAGEMENT,20210829041659,2021-08-29
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210829041659,2021-08-29
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210829041659,2021-08-29
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210829041659,2021-08-29
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210829041659,2021-08-29
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210829041659,2021-08-29
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210829041659,2021-08-29
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210829041659,2021-08-29
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210829041659,2021-08-29
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210829041659,2021-08-29
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210829041659,2021-08-29
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210829041659,2021-08-29
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210829041659,2021-08-29
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210829041659,2021-08-29
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210829041659,2021-08-29
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210829041659,2021-08-29
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210829041659,2021-08-29
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210829041659,2021-08-29
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210829041659,2021-08-29
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210829041659,2021-08-29
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210829041659,2021-08-29
+Joe Tsai,Governor,GOVERNANCE,20210131090146,2021-01-31
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210131090146,2021-01-31
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210131090146,2021-01-31
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210131090146,2021-01-31
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210131090146,2021-01-31
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210131090146,2021-01-31
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210131090146,2021-01-31
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210131090146,2021-01-31
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210131090146,2021-01-31
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210131090146,2021-01-31
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",MANAGEMENT,20210131090146,2021-01-31
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210131090146,2021-01-31
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210131090146,2021-01-31
+Savan Hacknorath,"Senior Vice President, Human Resources",MANAGEMENT,20210131090146,2021-01-31
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210131090146,2021-01-31
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210131090146,2021-01-31
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210131090146,2021-01-31
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210131090146,2021-01-31
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210131090146,2021-01-31
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210131090146,2021-01-31
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210131090146,2021-01-31
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210131090146,2021-01-31
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210131090146,2021-01-31
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210131090146,2021-01-31
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210131090146,2021-01-31
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210131090146,2021-01-31
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210131090146,2021-01-31
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210131090146,2021-01-31
+Mark Fine,"Vice President, Team Marketing",MANAGEMENT,20210131090146,2021-01-31
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210131090146,2021-01-31
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210131090146,2021-01-31
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210131090146,2021-01-31
+Joe Tsai,Governor,EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+Oliver Weisberg,Alternate Governor,EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+John Abbamondi,Alternate Governor,EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+Leo Ehrline,Executive Vice President and Chief Experience Officer,EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+Travis Sampson,Chief Information Officer,EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+Mandy Gutmann,"Senior Vice President, Communications",EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+Savan Hacknorath,"Senior Vice President, Human Resources",EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",EXECUTIVE MANAGEMENT,20200803212918,2020-08-03
+Joshua Pruss,"Senior Vice President, Global Partnerships",FRONT OFFICE,20200803212918,2020-08-03
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",FRONT OFFICE,20200803212918,2020-08-03
+John Baier,"Senior Vice President, Ticket Sales and Service",FRONT OFFICE,20200803212918,2020-08-03
+Alton Byrd,"Vice President, Business Operations - Long Island Nets",FRONT OFFICE,20200803212918,2020-08-03
+Josue Napa,"Vice President, Controller",FRONT OFFICE,20200803212918,2020-08-03
+Jeff Gamble,"Vice President, Creative & Content Management",FRONT OFFICE,20200803212918,2020-08-03
+Dr. Maurice A. Stinnett,"Vice President, Diversity and Inclusion",FRONT OFFICE,20200803212918,2020-08-03
+Paul Kamras,"Vice President, Game Presentation",FRONT OFFICE,20200803212918,2020-08-03
+Dan Gaiman,"Vice President, Global Partnership Sales",FRONT OFFICE,20200803212918,2020-08-03
+Chris Insolera,"Vice President, Global Partnership Sales",FRONT OFFICE,20200803212918,2020-08-03
+Victor Pereira,"Vice President, Information Technology",FRONT OFFICE,20200803212918,2020-08-03
+Randy Lewis,"Vice President, Marketing Technology",FRONT OFFICE,20200803212918,2020-08-03
+Christine Bowns,"Vice President, Membership Services",FRONT OFFICE,20200803212918,2020-08-03
+Ross Grill,"Vice President, Premium Partnerships",FRONT OFFICE,20200803212918,2020-08-03
+Mark Fine,"Vice President, Team Marketing",FRONT OFFICE,20200803212918,2020-08-03
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20200803212918,2020-08-03
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20200803212918,2020-08-03
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20200803212918,2020-08-03
+Joe Tsai,Governor,GOVERNANCE,20210630084208,2021-06-30
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210630084208,2021-06-30
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210630084208,2021-06-30
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210630084208,2021-06-30
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210630084208,2021-06-30
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210630084208,2021-06-30
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210630084208,2021-06-30
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210630084208,2021-06-30
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210630084208,2021-06-30
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210630084208,2021-06-30
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210630084208,2021-06-30
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",MANAGEMENT,20210630084208,2021-06-30
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210630084208,2021-06-30
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210630084208,2021-06-30
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210630084208,2021-06-30
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210630084208,2021-06-30
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210630084208,2021-06-30
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210630084208,2021-06-30
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210630084208,2021-06-30
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210630084208,2021-06-30
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210630084208,2021-06-30
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210630084208,2021-06-30
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210630084208,2021-06-30
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210630084208,2021-06-30
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210630084208,2021-06-30
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210630084208,2021-06-30
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210630084208,2021-06-30
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210630084208,2021-06-30
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210630084208,2021-06-30
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210630084208,2021-06-30
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210630084208,2021-06-30
+Mikhail Prokhorov,"Owner, Governor",EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Joseph Tsai,"Owner, Alternate Governor",EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Dmitry Razumov,Chairman of the Board of Directors,EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Maureen Hanlon,"President, ONEXIM Sports and Entertainment Holding USA, Inc.",EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Brett Yormark,Chief Executive Officer,EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Leo Ehrline,Chief Experience Officer,EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Eu-Gene Sung,Chief Financial Officer,EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Elizabeth Brooks,Chief Marketing Officer,EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Michael Zavodsky,Chief Revenue Officer,EXECUTIVE MANAGEMENT,20190111051209,2019-01-11
+Joshua Pruss,"Senior Vice President, Global Partnerships",FRONT OFFICE,20190111051209,2019-01-11
+Bryan Calka,"Senior Vice President, Global Partnership Sales",FRONT OFFICE,20190111051209,2019-01-11
+John Baier,"Senior Vice President, Ticket Sales and Service",FRONT OFFICE,20190111051209,2019-01-11
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",FRONT OFFICE,20190111051209,2019-01-11
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",FRONT OFFICE,20190111051209,2019-01-11
+Jeff Gamble,"Vice President, Creative & Content Management",FRONT OFFICE,20190111051209,2019-01-11
+Mandy Gutmann,"Vice President, Communications",FRONT OFFICE,20190111051209,2019-01-11
+Josue Napa,"Vice President, Controller",FRONT OFFICE,20190111051209,2019-01-11
+Kari Cohen,Vice President & Deputy General Counsel,FRONT OFFICE,20190111051209,2019-01-11
+Robert Saliers,"Vice President, Event Finance & Development",FRONT OFFICE,20190111051209,2019-01-11
+Peter Kirschenbaum,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20190111051209,2019-01-11
+Michael White,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20190111051209,2019-01-11
+Paul Kamras,"Vice President, Game Presentation",FRONT OFFICE,20190111051209,2019-01-11
+Kellen Benjamin,"Vice President, Global Partnerships",FRONT OFFICE,20190111051209,2019-01-11
+Christopher Lombardo,"Vice President, Global Partnerships",FRONT OFFICE,20190111051209,2019-01-11
+Dan Gaiman,"Vice President, Global Partnership Sales",FRONT OFFICE,20190111051209,2019-01-11
+Chris Insolera,"Vice President, Global Partnership Sales",FRONT OFFICE,20190111051209,2019-01-11
+Kirk King,"Vice President, Group Sales",FRONT OFFICE,20190111051209,2019-01-11
+Savan Hacknorath,"Vice President, Human Resources",FRONT OFFICE,20190111051209,2019-01-11
+Randy Lewis,"Vice President, Marketing Technology",FRONT OFFICE,20190111051209,2019-01-11
+Ashley Kahler,"Vice President, Partnership Marketing & Brand Strategy",FRONT OFFICE,20190111051209,2019-01-11
+Howard Seif,"Vice President, Partnership Marketing",FRONT OFFICE,20190111051209,2019-01-11
+Ross Grill,"Vice President, Premium Partnerships",FRONT OFFICE,20190111051209,2019-01-11
+Nick Vaerewyck,"Vice President, Programming",FRONT OFFICE,20190111051209,2019-01-11
+Victor Pereira,"Senior Director, Information Technology",FRONT OFFICE,20190111051209,2019-01-11
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20190111051209,2019-01-11
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20190111051209,2019-01-11
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20190111051209,2019-01-11
+Joe Tsai,Governor,GOVERNANCE,20210330171339,2021-03-30
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210330171339,2021-03-30
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210330171339,2021-03-30
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210330171339,2021-03-30
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210330171339,2021-03-30
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210330171339,2021-03-30
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210330171339,2021-03-30
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210330171339,2021-03-30
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210330171339,2021-03-30
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210330171339,2021-03-30
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210330171339,2021-03-30
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",MANAGEMENT,20210330171339,2021-03-30
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210330171339,2021-03-30
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210330171339,2021-03-30
+Savan Hacknorath,"Senior Vice President, Human Resources",MANAGEMENT,20210330171339,2021-03-30
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210330171339,2021-03-30
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210330171339,2021-03-30
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210330171339,2021-03-30
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210330171339,2021-03-30
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210330171339,2021-03-30
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210330171339,2021-03-30
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210330171339,2021-03-30
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210330171339,2021-03-30
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210330171339,2021-03-30
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210330171339,2021-03-30
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210330171339,2021-03-30
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210330171339,2021-03-30
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210330171339,2021-03-30
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210330171339,2021-03-30
+Mark Fine,"Vice President, Team Marketing",MANAGEMENT,20210330171339,2021-03-30
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210330171339,2021-03-30
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210330171339,2021-03-30
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210330171339,2021-03-30
+Joe Tsai,Governor,EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+Oliver Weisberg,Alternate Governor,EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+John Abbamondi,Alternate Governor,EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+Leo Ehrline,Executive Vice President and Chief Experience Officer,EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+Travis Sampson,Chief Information Officer,EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+Mandy Gutmann,"Senior Vice President, Communications",EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+Savan Hacknorath,"Senior Vice President, Human Resources",EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,EXECUTIVE MANAGEMENT,20201031235328,2020-10-31
+Joshua Pruss,"Senior Vice President, Global Partnerships",FRONT OFFICE,20201031235328,2020-10-31
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",FRONT OFFICE,20201031235328,2020-10-31
+John Baier,"Senior Vice President, Ticket Sales and Service",FRONT OFFICE,20201031235328,2020-10-31
+Alton Byrd,"Vice President, Business Operations - Long Island Nets",FRONT OFFICE,20201031235328,2020-10-31
+Josue Napa,"Vice President, Controller",FRONT OFFICE,20201031235328,2020-10-31
+Jeff Gamble,"Vice President, Creative & Content Management",FRONT OFFICE,20201031235328,2020-10-31
+Paul Kamras,"Vice President, Game Presentation",FRONT OFFICE,20201031235328,2020-10-31
+Dan Gaiman,"Vice President, Global Partnership Sales",FRONT OFFICE,20201031235328,2020-10-31
+Chris Insolera,"Vice President, Global Partnership Sales",FRONT OFFICE,20201031235328,2020-10-31
+Victor Pereira,"Vice President, Information Technology",FRONT OFFICE,20201031235328,2020-10-31
+Randy Lewis,"Vice President, Marketing Technology",FRONT OFFICE,20201031235328,2020-10-31
+Christine Bowns,"Vice President, Membership Services",FRONT OFFICE,20201031235328,2020-10-31
+Ross Grill,"Vice President, Premium Partnerships",FRONT OFFICE,20201031235328,2020-10-31
+Mark Fine,"Vice President, Team Marketing",FRONT OFFICE,20201031235328,2020-10-31
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20201031235328,2020-10-31
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20201031235328,2020-10-31
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20201031235328,2020-10-31
+Joe Tsai,Governor,EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Oliver Weisberg,Alternate Governor,EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Leo Ehrline,Executive Vice President and Chief Experience Officer,EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Travis Sampson,Chief Information Officer,EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Keith Sheldon,"Executive Vice President, Programming",EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Mandy Gutmann,"Senior Vice President, Communications",EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Bryan Calka,"Senior Vice President, Global Partnerships",EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Savan Hacknorath,"Senior Vice President, Human Resources",EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",EXECUTIVE MANAGEMENT,20200531081733,2020-05-31
+Joshua Pruss,"Senior Vice President, Global Partnerships",FRONT OFFICE,20200531081733,2020-05-31
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",FRONT OFFICE,20200531081733,2020-05-31
+John Baier,"Senior Vice President, Ticket Sales and Service",FRONT OFFICE,20200531081733,2020-05-31
+Alton Byrd,"Vice President, Business Operations - Long Island Nets",FRONT OFFICE,20200531081733,2020-05-31
+Josue Napa,"Vice President, Controller",FRONT OFFICE,20200531081733,2020-05-31
+Jeff Gamble,"Vice President, Creative & Content Management",FRONT OFFICE,20200531081733,2020-05-31
+Dr. Maurice A. Stinnett,"Vice President, Diversity and Inclusion",FRONT OFFICE,20200531081733,2020-05-31
+Michael White,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20200531081733,2020-05-31
+Paul Kamras,"Vice President, Game Presentation",FRONT OFFICE,20200531081733,2020-05-31
+Dan Gaiman,"Vice President, Global Partnership Sales",FRONT OFFICE,20200531081733,2020-05-31
+Chris Insolera,"Vice President, Global Partnership Sales",FRONT OFFICE,20200531081733,2020-05-31
+Victor Pereira,"Vice President, Information Technology",FRONT OFFICE,20200531081733,2020-05-31
+Randy Lewis,"Vice President, Marketing Technology",FRONT OFFICE,20200531081733,2020-05-31
+Christine Bowns,"Vice President, Membership Services",FRONT OFFICE,20200531081733,2020-05-31
+Ross Grill,"Vice President, Premium Partnerships",FRONT OFFICE,20200531081733,2020-05-31
+Mark Fine,"Vice President, Team Marketing",FRONT OFFICE,20200531081733,2020-05-31
+Christina King,"Senior Director, Human Resources",FRONT OFFICE,20200531081733,2020-05-31
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20200531081733,2020-05-31
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20200531081733,2020-05-31
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20200531081733,2020-05-31
+Joe Tsai,Governor,GOVERNANCE,20210831051026,2021-08-31
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210831051026,2021-08-31
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210831051026,2021-08-31
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210831051026,2021-08-31
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210831051026,2021-08-31
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210831051026,2021-08-31
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210831051026,2021-08-31
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210831051026,2021-08-31
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210831051026,2021-08-31
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210831051026,2021-08-31
+Mandy Gutmann,"Executive Vice President, Communications and Community Relations",MANAGEMENT,20210831051026,2021-08-31
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210831051026,2021-08-31
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210831051026,2021-08-31
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210831051026,2021-08-31
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210831051026,2021-08-31
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210831051026,2021-08-31
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210831051026,2021-08-31
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210831051026,2021-08-31
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210831051026,2021-08-31
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210831051026,2021-08-31
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210831051026,2021-08-31
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210831051026,2021-08-31
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210831051026,2021-08-31
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210831051026,2021-08-31
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210831051026,2021-08-31
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210831051026,2021-08-31
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210831051026,2021-08-31
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210831051026,2021-08-31
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210831051026,2021-08-31
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210831051026,2021-08-31
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210831051026,2021-08-31
+Joe Tsai,Governor,GOVERNANCE,20210531025009,2021-05-31
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210531025009,2021-05-31
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210531025009,2021-05-31
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210531025009,2021-05-31
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210531025009,2021-05-31
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210531025009,2021-05-31
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210531025009,2021-05-31
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210531025009,2021-05-31
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210531025009,2021-05-31
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210531025009,2021-05-31
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210531025009,2021-05-31
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",MANAGEMENT,20210531025009,2021-05-31
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210531025009,2021-05-31
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210531025009,2021-05-31
+Savan Hacknorath,"Senior Vice President, Human Resources",MANAGEMENT,20210531025009,2021-05-31
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210531025009,2021-05-31
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210531025009,2021-05-31
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210531025009,2021-05-31
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210531025009,2021-05-31
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210531025009,2021-05-31
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210531025009,2021-05-31
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210531025009,2021-05-31
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210531025009,2021-05-31
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210531025009,2021-05-31
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210531025009,2021-05-31
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210531025009,2021-05-31
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210531025009,2021-05-31
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210531025009,2021-05-31
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210531025009,2021-05-31
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210531025009,2021-05-31
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210531025009,2021-05-31
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210531025009,2021-05-31
+Joe Tsai,Governor,GOVERNANCE,20210731121922,2021-07-31
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210731121922,2021-07-31
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210731121922,2021-07-31
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210731121922,2021-07-31
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210731121922,2021-07-31
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210731121922,2021-07-31
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210731121922,2021-07-31
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210731121922,2021-07-31
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210731121922,2021-07-31
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210731121922,2021-07-31
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210731121922,2021-07-31
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",MANAGEMENT,20210731121922,2021-07-31
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210731121922,2021-07-31
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210731121922,2021-07-31
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210731121922,2021-07-31
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210731121922,2021-07-31
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210731121922,2021-07-31
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210731121922,2021-07-31
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210731121922,2021-07-31
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210731121922,2021-07-31
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210731121922,2021-07-31
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210731121922,2021-07-31
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210731121922,2021-07-31
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210731121922,2021-07-31
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210731121922,2021-07-31
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210731121922,2021-07-31
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210731121922,2021-07-31
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210731121922,2021-07-31
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210731121922,2021-07-31
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210731121922,2021-07-31
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210731121922,2021-07-31
+Joe Tsai,Governor,GOVERNANCE,20210228132052,2021-02-28
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210228132052,2021-02-28
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210228132052,2021-02-28
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210228132052,2021-02-28
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210228132052,2021-02-28
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210228132052,2021-02-28
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210228132052,2021-02-28
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210228132052,2021-02-28
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210228132052,2021-02-28
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210228132052,2021-02-28
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210228132052,2021-02-28
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",MANAGEMENT,20210228132052,2021-02-28
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210228132052,2021-02-28
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210228132052,2021-02-28
+Savan Hacknorath,"Senior Vice President, Human Resources",MANAGEMENT,20210228132052,2021-02-28
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210228132052,2021-02-28
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210228132052,2021-02-28
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210228132052,2021-02-28
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210228132052,2021-02-28
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210228132052,2021-02-28
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210228132052,2021-02-28
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210228132052,2021-02-28
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210228132052,2021-02-28
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210228132052,2021-02-28
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210228132052,2021-02-28
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210228132052,2021-02-28
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210228132052,2021-02-28
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210228132052,2021-02-28
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210228132052,2021-02-28
+Mark Fine,"Vice President, Team Marketing",MANAGEMENT,20210228132052,2021-02-28
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210228132052,2021-02-28
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210228132052,2021-02-28
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210228132052,2021-02-28
+Joe Tsai,Governor,GOVERNANCE,20210430084151,2021-04-30
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210430084151,2021-04-30
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210430084151,2021-04-30
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210430084151,2021-04-30
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210430084151,2021-04-30
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210430084151,2021-04-30
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210430084151,2021-04-30
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210430084151,2021-04-30
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210430084151,2021-04-30
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210430084151,2021-04-30
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210430084151,2021-04-30
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",MANAGEMENT,20210430084151,2021-04-30
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210430084151,2021-04-30
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210430084151,2021-04-30
+Savan Hacknorath,"Senior Vice President, Human Resources",MANAGEMENT,20210430084151,2021-04-30
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210430084151,2021-04-30
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210430084151,2021-04-30
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210430084151,2021-04-30
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210430084151,2021-04-30
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210430084151,2021-04-30
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210430084151,2021-04-30
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210430084151,2021-04-30
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210430084151,2021-04-30
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210430084151,2021-04-30
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210430084151,2021-04-30
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210430084151,2021-04-30
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210430084151,2021-04-30
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210430084151,2021-04-30
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210430084151,2021-04-30
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210430084151,2021-04-30
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210430084151,2021-04-30
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210430084151,2021-04-30
+Mikhail Prokhorov,Governor,EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Joseph Tsai,Alternate Governor,EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Dmitry Razumov,Chairman of the Board of Directors,EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Maureen Hanlon,"President, ONEXIM Sports and Entertainment Holding USA, Inc.",EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Brett Yormark,Chief Executive Officer,EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Leo Ehrline,Chief Experience Officer,EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Eu-Gene Sung,Chief Financial Officer,EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Travis Sampson,Chief Information Officer,EXECUTIVE MANAGEMENT,20190904080646,2019-09-04
+Mandy Gutmann,"Senior Vice President, Communications",FRONT OFFICE,20190904080646,2019-09-04
+Joshua Pruss,"Senior Vice President, Global Partnerships",FRONT OFFICE,20190904080646,2019-09-04
+Bryan Calka,"Senior Vice President, Global Partnership Sales",FRONT OFFICE,20190904080646,2019-09-04
+Savan Hacknorath,"Senior Vice President, Human Resources",FRONT OFFICE,20190904080646,2019-09-04
+John Baier,"Senior Vice President, Ticket Sales and Service",FRONT OFFICE,20190904080646,2019-09-04
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",FRONT OFFICE,20190904080646,2019-09-04
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",FRONT OFFICE,20190904080646,2019-09-04
+Jeff Gamble,"Vice President, Creative & Content Management",FRONT OFFICE,20190904080646,2019-09-04
+Josue Napa,"Vice President, Controller",FRONT OFFICE,20190904080646,2019-09-04
+Kari Cohen,Vice President & Deputy General Counsel,FRONT OFFICE,20190904080646,2019-09-04
+Robert Saliers,"Vice President, Event Finance & Development",FRONT OFFICE,20190904080646,2019-09-04
+Peter Kirschenbaum,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20190904080646,2019-09-04
+Michael White,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20190904080646,2019-09-04
+Paul Kamras,"Vice President, Game Presentation",FRONT OFFICE,20190904080646,2019-09-04
+Dan Gaiman,"Vice President, Global Partnership Sales",FRONT OFFICE,20190904080646,2019-09-04
+Chris Insolera,"Vice President, Global Partnership Sales",FRONT OFFICE,20190904080646,2019-09-04
+Kirk King,"Vice President, Group Sales",FRONT OFFICE,20190904080646,2019-09-04
+Randy Lewis,"Vice President, Marketing Technology",FRONT OFFICE,20190904080646,2019-09-04
+Christine Bowns,"Vice President, Membership Services",FRONT OFFICE,20190904080646,2019-09-04
+Howard Seif,"Vice President, Partnership Marketing",FRONT OFFICE,20190904080646,2019-09-04
+Ross Grill,"Vice President, Premium Partnerships",FRONT OFFICE,20190904080646,2019-09-04
+Nick Vaerewyck,"Vice President, Programming",FRONT OFFICE,20190904080646,2019-09-04
+Mark FIne,"Vice President, Team Marketing",FRONT OFFICE,20190904080646,2019-09-04
+Victor Pereira,"Senior Director, Information Technology",FRONT OFFICE,20190904080646,2019-09-04
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20190904080646,2019-09-04
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20190904080646,2019-09-04
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20190904080646,2019-09-04
+Joe Tsai,Governor,EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+Oliver Weisberg,Alternate Governor,EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+John Abbamondi,Alternate Governor,EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+Leo Ehrline,Executive Vice President and Chief Experience Officer,EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+Travis Sampson,Chief Information Officer,EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+Savan Hacknorath,"Senior Vice President, Human Resources",EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,EXECUTIVE MANAGEMENT,20201130211724,2020-11-30
+Joshua Pruss,"Senior Vice President, Global Partnerships",FRONT OFFICE,20201130211724,2020-11-30
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",FRONT OFFICE,20201130211724,2020-11-30
+John Baier,"Senior Vice President, Ticket Sales and Service",FRONT OFFICE,20201130211724,2020-11-30
+Alton Byrd,"Vice President, Business Operations - Long Island Nets",FRONT OFFICE,20201130211724,2020-11-30
+Josue Napa,"Vice President, Controller",FRONT OFFICE,20201130211724,2020-11-30
+Jeff Gamble,"Vice President, Creative & Content Management",FRONT OFFICE,20201130211724,2020-11-30
+Paul Kamras,"Vice President, Game Presentation",FRONT OFFICE,20201130211724,2020-11-30
+Dan Gaiman,"Vice President, Global Partnership Sales",FRONT OFFICE,20201130211724,2020-11-30
+Chris Insolera,"Vice President, Global Partnership Sales",FRONT OFFICE,20201130211724,2020-11-30
+Victor Pereira,"Vice President, Information Technology",FRONT OFFICE,20201130211724,2020-11-30
+Randy Lewis,"Vice President, Marketing Technology",FRONT OFFICE,20201130211724,2020-11-30
+Christine Bowns,"Vice President, Membership Services",FRONT OFFICE,20201130211724,2020-11-30
+Ross Grill,"Vice President, Premium Partnerships",FRONT OFFICE,20201130211724,2020-11-30
+Mark Fine,"Vice President, Team Marketing",FRONT OFFICE,20201130211724,2020-11-30
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20201130211724,2020-11-30
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20201130211724,2020-11-30
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20201130211724,2020-11-30
+Mikhail Prokhorov,"Owner, Governor",EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Joseph Tsai,"Owner, Alternate Governor",EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Dmitry Razumov,Chairman of the Board of Directors,EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Maureen Hanlon,"President, ONEXIM Sports and Entertainment Holding USA, Inc.",EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Brett Yormark,Chief Executive Officer,EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Leo Ehrline,Chief Experience Officer,EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Eu-Gene Sung,Chief Financial Officer,EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Elizabeth Brooks,Chief Marketing Officer,EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Michael Zavodsky,Chief Revenue Officer,EXECUTIVE MANAGEMENT,20190210162921,2019-02-10
+Joshua Pruss,"Senior Vice President, Global Partnerships",FRONT OFFICE,20190210162921,2019-02-10
+Bryan Calka,"Senior Vice President, Global Partnership Sales",FRONT OFFICE,20190210162921,2019-02-10
+John Baier,"Senior Vice President, Ticket Sales and Service",FRONT OFFICE,20190210162921,2019-02-10
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",FRONT OFFICE,20190210162921,2019-02-10
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",FRONT OFFICE,20190210162921,2019-02-10
+Jeff Gamble,"Vice President, Creative & Content Management",FRONT OFFICE,20190210162921,2019-02-10
+Mandy Gutmann,"Vice President, Communications",FRONT OFFICE,20190210162921,2019-02-10
+Josue Napa,"Vice President, Controller",FRONT OFFICE,20190210162921,2019-02-10
+Kari Cohen,Vice President & Deputy General Counsel,FRONT OFFICE,20190210162921,2019-02-10
+Robert Saliers,"Vice President, Event Finance & Development",FRONT OFFICE,20190210162921,2019-02-10
+Peter Kirschenbaum,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20190210162921,2019-02-10
+Michael White,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20190210162921,2019-02-10
+Paul Kamras,"Vice President, Game Presentation",FRONT OFFICE,20190210162921,2019-02-10
+Kellen Benjamin,"Vice President, Global Partnerships",FRONT OFFICE,20190210162921,2019-02-10
+Christopher Lombardo,"Vice President, Global Partnerships",FRONT OFFICE,20190210162921,2019-02-10
+Dan Gaiman,"Vice President, Global Partnership Sales",FRONT OFFICE,20190210162921,2019-02-10
+Chris Insolera,"Vice President, Global Partnership Sales",FRONT OFFICE,20190210162921,2019-02-10
+Kirk King,"Vice President, Group Sales",FRONT OFFICE,20190210162921,2019-02-10
+Savan Hacknorath,"Vice President, Human Resources",FRONT OFFICE,20190210162921,2019-02-10
+Randy Lewis,"Vice President, Marketing Technology",FRONT OFFICE,20190210162921,2019-02-10
+Ashley Kahler,"Vice President, Partnership Marketing & Brand Strategy",FRONT OFFICE,20190210162921,2019-02-10
+Howard Seif,"Vice President, Partnership Marketing",FRONT OFFICE,20190210162921,2019-02-10
+Ross Grill,"Vice President, Premium Partnerships",FRONT OFFICE,20190210162921,2019-02-10
+Nick Vaerewyck,"Vice President, Programming",FRONT OFFICE,20190210162921,2019-02-10
+Victor Pereira,"Senior Director, Information Technology",FRONT OFFICE,20190210162921,2019-02-10
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20190210162921,2019-02-10
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20190210162921,2019-02-10
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20190210162921,2019-02-10
+Joe Tsai,Governor,GOVERNANCE,20201231081124,2020-12-31
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20201231081124,2020-12-31
+John Abbamondi,"Alternate Governor, Chief Executive Officer",GOVERNANCE,20201231081124,2020-12-31
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20201231081124,2020-12-31
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20201231081124,2020-12-31
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20201231081124,2020-12-31
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20201231081124,2020-12-31
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",MANAGEMENT,20201231081124,2020-12-31
+Travis Sampson,Chief Information Officer,MANAGEMENT,20201231081124,2020-12-31
+Mandy Gutmann,"Senior Vice President, Communications and Community Relations",MANAGEMENT,20201231081124,2020-12-31
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20201231081124,2020-12-31
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20201231081124,2020-12-31
+Joshua Pruss,"Senior Vice President, Global Partnerships",MANAGEMENT,20201231081124,2020-12-31
+Savan Hacknorath,"Senior Vice President, Human Resources",MANAGEMENT,20201231081124,2020-12-31
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",MANAGEMENT,20201231081124,2020-12-31
+John Baier,"Senior Vice President, Ticket Sales and Service",MANAGEMENT,20201231081124,2020-12-31
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",MANAGEMENT,20201231081124,2020-12-31
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20201231081124,2020-12-31
+Alton Byrd,"Vice President, Business Operations - Long Island Nets",MANAGEMENT,20201231081124,2020-12-31
+Josue Napa,"Vice President, Controller",MANAGEMENT,20201231081124,2020-12-31
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20201231081124,2020-12-31
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20201231081124,2020-12-31
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20201231081124,2020-12-31
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20201231081124,2020-12-31
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20201231081124,2020-12-31
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20201231081124,2020-12-31
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20201231081124,2020-12-31
+Christine Bowns,"Vice President, Membership Services",MANAGEMENT,20201231081124,2020-12-31
+Ross Grill,"Vice President, Premium Partnerships",MANAGEMENT,20201231081124,2020-12-31
+Mark Fine,"Vice President, Team Marketing",MANAGEMENT,20201231081124,2020-12-31
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20201231081124,2020-12-31
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20201231081124,2020-12-31
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20201231081124,2020-12-31
+Joe Tsai,Governor,GOVERNANCE,20210905083518,2021-09-05
+Oliver Weisberg,Alternate Governor,GOVERNANCE,20210905083518,2021-09-05
+John Abbamondi,"Alternate Governor, Brooklyn Nets, CEO, BSE Global",GOVERNANCE,20210905083518,2021-09-05
+Sean Marks,"Alternative Governor, General Manager",GOVERNANCE,20210905083518,2021-09-05
+Michael Wandell,"Executive Vice President, Chief Commercial Officer",MANAGEMENT,20210905083518,2021-09-05
+Laurie Jacoby,"Executive Vice President, Chief Entertainment Officer",MANAGEMENT,20210905083518,2021-09-05
+Leo Ehrline,"Executive Vice President, Chief Experience Officer",MANAGEMENT,20210905083518,2021-09-05
+Peter Stern,"Executive Vice President, Chief Financial Officer",MANAGEMENT,20210905083518,2021-09-05
+Emerson Moore,"Executive Vice President, Chief People Officer",MANAGEMENT,20210905083518,2021-09-05
+Jeff Gewirtz,"Executive Vice President, Chief Operating Officer and General Counsel",MANAGEMENT,20210905083518,2021-09-05
+Mandy Gutmann,"Executive Vice President, Communications and Community Relations",MANAGEMENT,20210905083518,2021-09-05
+Travis Sampson,Chief Information Officer,MANAGEMENT,20210905083518,2021-09-05
+"Jackie Wilson, II",Executive Director of Diversity & Inclusion,MANAGEMENT,20210905083518,2021-09-05
+Andrew Karson,"Senior Vice President, Brand Marketing and Solutions",MANAGEMENT,20210905083518,2021-09-05
+Amos Varon,"Senior Vice President, Partnership and Premium Development",MANAGEMENT,20210905083518,2021-09-05
+Joshua Pruss,"Senior Vice President, Partnership Marketing and Premium Hospitality",MANAGEMENT,20210905083518,2021-09-05
+Paul Kavanaugh,"Senior Vice President, Ticket Sales and Operations",MANAGEMENT,20210905083518,2021-09-05
+Adina Erwin,"General Manager, Barclays Center",MANAGEMENT,20210905083518,2021-09-05
+Josue Napa,"Vice President, Controller",MANAGEMENT,20210905083518,2021-09-05
+Jeff Gamble,"Vice President, Creative & Content Management",MANAGEMENT,20210905083518,2021-09-05
+Paul Kamras,"Vice President, Game Presentation",MANAGEMENT,20210905083518,2021-09-05
+Dan Gaiman,"Vice President, Global Partnership Sales",MANAGEMENT,20210905083518,2021-09-05
+Chris Insolera,"Vice President, Global Partnership Sales",MANAGEMENT,20210905083518,2021-09-05
+Alton Byrd,"Vice President, Growth Properties - Long Island Nets",MANAGEMENT,20210905083518,2021-09-05
+Chris Giacalone,"Vice President, Hospitality",MANAGEMENT,20210905083518,2021-09-05
+Victor Pereira,"Vice President, Information Technology",MANAGEMENT,20210905083518,2021-09-05
+Randy Lewis,"Vice President, Marketing Technology",MANAGEMENT,20210905083518,2021-09-05
+Christine Bowns,"Vice President, Premium Hospitality",MANAGEMENT,20210905083518,2021-09-05
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20210905083518,2021-09-05
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20210905083518,2021-09-05
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20210905083518,2021-09-05
+Mikhail Prokhorov,"Owner, Governor",EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Joseph Tsai,"Owner, Alternate Governor",EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Dmitry Razumov,Chairman of the Board of Directors,EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Maureen Hanlon,"President, ONEXIM Sports and Entertainment Holding USA, Inc.",EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Brett Yormark,Chief Executive Officer,EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Leo Ehrline,Chief Experience Officer,EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Jeff Gewirtz,"Executive Vice President, Business Affairs and Chief Legal & Compliance Officer",EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Eu-Gene Sung,Chief Financial Officer,EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Michael Zavodsky,Chief Revenue Officer,EXECUTIVE MANAGEMENT,20190306050332,2019-03-06
+Joshua Pruss,"Senior Vice President, Global Partnerships",FRONT OFFICE,20190306050332,2019-03-06
+Bryan Calka,"Senior Vice President, Global Partnership Sales",FRONT OFFICE,20190306050332,2019-03-06
+John Baier,"Senior Vice President, Ticket Sales and Service",FRONT OFFICE,20190306050332,2019-03-06
+Paul Kavanaugh,"Senior Vice President, Ticket Operations",FRONT OFFICE,20190306050332,2019-03-06
+Dan Lefton,"Senior Vice President, Tickets – Strategy and Operations",FRONT OFFICE,20190306050332,2019-03-06
+Jeff Gamble,"Vice President, Creative & Content Management",FRONT OFFICE,20190306050332,2019-03-06
+Mandy Gutmann,"Vice President, Communications",FRONT OFFICE,20190306050332,2019-03-06
+Josue Napa,"Vice President, Controller",FRONT OFFICE,20190306050332,2019-03-06
+Kari Cohen,Vice President & Deputy General Counsel,FRONT OFFICE,20190306050332,2019-03-06
+Robert Saliers,"Vice President, Event Finance & Development",FRONT OFFICE,20190306050332,2019-03-06
+Peter Kirschenbaum,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20190306050332,2019-03-06
+Michael White,"Vice President, Financial Planning & Analysis",FRONT OFFICE,20190306050332,2019-03-06
+Paul Kamras,"Vice President, Game Presentation",FRONT OFFICE,20190306050332,2019-03-06
+Kellen Benjamin,"Vice President, Global Partnerships",FRONT OFFICE,20190306050332,2019-03-06
+Christopher Lombardo,"Vice President, Global Partnerships",FRONT OFFICE,20190306050332,2019-03-06
+Dan Gaiman,"Vice President, Global Partnership Sales",FRONT OFFICE,20190306050332,2019-03-06
+Chris Insolera,"Vice President, Global Partnership Sales",FRONT OFFICE,20190306050332,2019-03-06
+Kirk King,"Vice President, Group Sales",FRONT OFFICE,20190306050332,2019-03-06
+Savan Hacknorath,"Vice President, Human Resources",FRONT OFFICE,20190306050332,2019-03-06
+Randy Lewis,"Vice President, Marketing Technology",FRONT OFFICE,20190306050332,2019-03-06
+Ashley Kahler,"Vice President, Partnership Marketing & Brand Strategy",FRONT OFFICE,20190306050332,2019-03-06
+Howard Seif,"Vice President, Partnership Marketing",FRONT OFFICE,20190306050332,2019-03-06
+Ross Grill,"Vice President, Premium Partnerships",FRONT OFFICE,20190306050332,2019-03-06
+Nick Vaerewyck,"Vice President, Programming",FRONT OFFICE,20190306050332,2019-03-06
+Mark FIne,"Vice President, Team Marketing",FRONT OFFICE,20190306050332,2019-03-06
+Victor Pereira,"Senior Director, Information Technology",FRONT OFFICE,20190306050332,2019-03-06
+"Riley J. Williams III, MD",Medical Director & Head Team Physician,MEDICAL STAFF,20190306050332,2019-03-06
+"Michael Farber, MD",Team Physician/Internal Medicine,MEDICAL STAFF,20190306050332,2019-03-06
+"Martin O'Malley, MD",Team Physician/Orthopedics,MEDICAL STAFF,20190306050332,2019-03-06
