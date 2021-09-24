@@ -1,0 +1,31 @@
+﻿name,prefix_1,prefix_2,staff_directory_link,business positions,basketball positions
+Boston Celtics,bos,boston-celtics,https://www.nba.com/celtics/contact/front-office,,
+Brooklyn Nets,bkn,brooklyn-nets,https://www.nba.com/nets/staff-directory,only executive,
+New York Knicks,ny,new-york-knicks,https://www.nba.com/knicks/front-office,only executive,
+Philadelphia 76ers,phi,philadelphia-76ers,https://www.nba.com/sixers/team/staff-directory,,
+Toronto Raptors,tor,toronto-raptors,https://www.nba.com/raptors/mlsel-management,none,
+Golden State Warriors,gs,golden-state-warriors,none,none,none
+Los Angeles Clippers,lac,los-angeles-clippers,https://www.nba.com/clippers/club-directory,,
+Los Angeles Lakers,lal,los-angeles-lakers,none,none,none
+Phoenix Suns,phx,phoenix-suns,https://www.nba.com/suns/directory/staff,,
+Sacramento Kings,sac,sacramento-kings,https://www.nba.com/kings/contact-us,only executive,
+Chicago Bulls,chi,chicago-bulls,https://www.nba.com/bulls/chicago-bulls-staff-directory,,
+Cleveland Cavaliers,cle,cleveland-cavaliers,none,none,none
+Detroit Pistons,det,detroit-pistons,none,none,none
+Indiana Pacers,ind,indiana-pacers,none,none,none
+Milwaukee Bucks,mil,milwaukee-bucks,none,none,none
+Dallas Mavericks,dal,dallas-mavericks,none,none,none
+Houston Rockets,hou,houston-rockets,none,none,none
+Memphis Grizzlies,mem,memphis-grizzlies,none,none,none
+New Orleans Hornets,no,new-orleans-hornets,https://www.nba.com/pelicans/staff-listing,,
+San Antonio Spurs,sa,san-antonio-spurs,none,none,none
+Atlanta Hawks,atl,atlanta-hawks,https://www.nba.com/hawks/staff-directory,,
+Charlotte Bobcats,cha,charlotte-bobcats,https://www.nba.com/hornets/bobcats_staff_directory.html,,
+Miami Heat,mia,miami-heat,https://www.nba.com/heat/contact/directory_list.html,executive only,
+Orlando Magic,orl,orlando-magic,none,none,none
+Washington Wizards,wsh,washington-wizards,https://www.nba.com/wizards/wizardsdirectoryhtml,,
+Denver Nuggets,den,denver-nuggets,https://www.nba.com/nuggets/staff-directory,none,
+Minnesota Timberwolves,min,minnesota-timberwolves,https://www.nba.com/timberwolves/team/basketball-operations,,
+Oklahoma City Thunder,okc,oklahoma-city-thunder,none,none,none
+Portland Trail Blazers,por,portland-trail-blazers,https://www.nba.com/blazers/contact/frontoffice,executive only,
+Utah Jazz,uta,utah-jazz,none,none,none
