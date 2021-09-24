@@ -1,5 +1,7 @@
 Get a historical view of nba team's staff changes using [Wayback Machine](https://archive.org/web/) snapshots.
 
+![](featured.png)
+
 
 ## References
 
